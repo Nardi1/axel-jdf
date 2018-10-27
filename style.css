@@ -2822,7 +2822,7 @@ button.cr-readmore:hover span img:last-child {
 * Header Styles
 */
 .header-area {
-  padding: 50px 0;
+  padding: 15px 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
